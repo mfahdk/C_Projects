@@ -1,4 +1,4 @@
-# Title: Hybrid Encryption-Decryption Tool
+# Hybrid Encryption-Decryption Tool
 
 #### Description  
 A robust C-based encryption and decryption tool that combines Monoalphabetic Substitution Cipher and Caesar Cipher techniques. This program allows users to securely encrypt and decrypt text files with customizable or randomly generated keys, ensuring a strong layer of security. It supports file input and output, making it a practical solution for managing encrypted text.
@@ -22,3 +22,6 @@ A robust C-based encryption and decryption tool that combines Monoalphabetic Sub
   - Menu-driven options for encryption, decryption, and key customization.  
   - Displays the key mapping for transparency.
 
+# Code Demonstration
+
+![Image](https://github.com/user-attachments/assets/ab1e55ca-de82-44d6-856f-8201e6a58c6c)
